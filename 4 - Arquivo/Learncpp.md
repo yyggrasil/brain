@@ -1,9 +1,6 @@
 ---
-tags:
+tags: []
 ---
----
-## Site
-- https://getcomposer.org/
 ---
 ## Definição
 
@@ -11,7 +8,7 @@ tags:
 
 ---
 **Links para essa página:**
-[[Projeto]]
+
 
 
 

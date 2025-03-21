@@ -8,15 +8,15 @@ tags:
 ---
 ---
 ## Ferramentas utilizadas
-- Xampp ([[PHP]]-8)
+- Xampp ([[PHP]]-8) - [link](https://www.apachefriends.org/index.html)
 - [[Node.js]]
 - [[Composer]]
 - [[Postman]]
 - [[React]]
-- Laravel
+- [[Laravel]]
 ## Instalação
 
-criar projeto laravel
+Criar projeto laravel
 ```
 composer create-project --prefer-dist laravel/laravel api
 ```

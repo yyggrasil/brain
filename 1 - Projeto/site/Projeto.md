@@ -25,6 +25,10 @@ Para rodar
 php artisan serve
 ```
 Instalação da biblioteca api
+```
+php artisan install:api
+```
+criação da pasta Api dentro do app/http
 
 
 criar app react

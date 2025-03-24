@@ -25,6 +25,8 @@ Para rodar
 php artisan serve
 ```
 
+
+
 criar app react
 ```
 npx create-react-app app

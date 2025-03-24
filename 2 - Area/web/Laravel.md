@@ -9,7 +9,11 @@ tags:
 ---
 ## Definição
 
-
+Comandos:
+- listar rotas
+```
+php artisan route:list
+```
 
 ---
 **Links para essa página:**

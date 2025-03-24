@@ -24,7 +24,7 @@ Para rodar
 ```
 php artisan serve
 ```
-Instalação da 
+Instalação da biblioteca api
 
 
 criar app react

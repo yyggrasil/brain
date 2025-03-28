@@ -14,6 +14,11 @@ O X25 Age nas 3 primeiras camadas:
 - Físico: Modem
 - Enlace: Verificar o erro de entrada 
 - Rede: o numero de telefone como o endereço de envio
+## PPP
+Protocolo ponto á ponto, protocolo de transmissão de pacotes serias ponto a ponto(geralmente dois modens). Suporta linhas síncronas(dedicado) e assíncronas(discado), criado para transporte de datagrama IP
+
+### Interface para rede IP/IPX
+
 
 ---
 **Links para essa página:**

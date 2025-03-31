@@ -35,9 +35,12 @@ php artisan install:api
 criação da pasta Api dentro do app/http
 
 
-criar app react
+criar app react dentro da pasta resources/js
 ```
-npx create-react-app app
+npx create vite@latest app
+cd app
+npm install
+npm run dev
 ```
 
 

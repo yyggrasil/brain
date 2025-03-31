@@ -20,6 +20,10 @@ Criar projeto laravel
 ```
 composer create-project --prefer-dist laravel/laravel api
 ```
+Criar banco de dados
+```
+php artisan migrate
+```
 Para rodar
 ```
 php artisan serve

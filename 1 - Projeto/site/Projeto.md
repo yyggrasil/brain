@@ -34,6 +34,14 @@ php artisan install:api
 ```
 criação da pasta Api dentro do app/http
 
+install
+https://github.com/lucascudo/laravel-pt-BR-localization
+```
+php artisan lang:publish
+```
+
+```
+
 
 criar app react dentro da pasta resources/js
 ```
